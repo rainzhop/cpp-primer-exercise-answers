@@ -1,0 +1,3 @@
+if there are all equal input values, the program will print one line to give the count of this value.
+
+if there are no duplicated values, the program will print one line for every value to indicate that it occur 1 times.

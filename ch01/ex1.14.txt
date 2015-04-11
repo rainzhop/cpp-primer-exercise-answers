@@ -1,0 +1,5 @@
+'while' loop only include the condition in the parentheses.
+'for' loop could initialize variables in first loop and change variables in every loop in the parentheses.
+
+if i need a variable to be initialized in first loop, i'd like to use 'for' loop.
+if i need a variable to be change in every loop, i'd like to use 'for' loop.

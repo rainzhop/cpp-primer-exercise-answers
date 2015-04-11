@@ -1,0 +1,2 @@
+the loop sums the numbers from -100 to 100.
+the final value of sum is 0.
