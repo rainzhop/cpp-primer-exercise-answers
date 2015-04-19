@@ -1,0 +1,20 @@
+(a) 'a' char
+    L'a' wchar_t
+    "a" an array of chars
+    L"a" an array of wchar_ts
+
+(b) 10 int
+    10u unsigned
+    10L long
+    10uL unsigned long
+    012 int
+    0xC int
+
+(c) 3.14 double
+    3.14f float
+    3.14L long double
+
+(d) 10 int
+    10u unsigned
+    10. double
+    10e-2 double

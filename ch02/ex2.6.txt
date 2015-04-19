@@ -1,0 +1,5 @@
+(a) int month = 9, day = 7;
+(b) int month = 9, day = 7;
+
+(a) month = 9, day = 7
+(b) month = 09 is invalid, day = 7

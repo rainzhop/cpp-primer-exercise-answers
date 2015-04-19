@@ -1,0 +1,10 @@
+(a) illegal
+    int input_value;
+    std::cin >> input_value;
+
+(b) legal
+
+(c) illegal
+    double salary = 9999.99, wage = salary;
+
+(d) legal
