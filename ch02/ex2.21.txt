@@ -1,0 +1,5 @@
+(a) illegal, type not match
+
+(b) illegal, assign a int to a pointer not allowed
+
+(c) legal

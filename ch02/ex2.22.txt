@@ -1,0 +1,3 @@
+if (p) // if p is nullptr
+
+if (*p) // if the int p points to is not 0

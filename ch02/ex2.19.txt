@@ -1,0 +1,1 @@
+pointer can be changed to point other object but reference could never be changed to bind to other object.

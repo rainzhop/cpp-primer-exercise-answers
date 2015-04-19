@@ -1,0 +1,14 @@
+(a)
+ip: int pointer
+i: int
+r: int reference
+all value undefined
+
+(b)
+i: int
+ip: int pointer, nullptr
+
+(c)
+ip: int pointer
+ip2: int
+all value undefined
