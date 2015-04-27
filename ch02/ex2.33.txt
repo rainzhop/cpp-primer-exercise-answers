@@ -1,0 +1,17 @@
+a is an int.
+a = 42; // assign 42 to a
+
+b is an int
+b = 42; // assign 42 to b
+
+c is an int
+c = 42; // assign 42 to c 
+
+d is an int *
+d = 42; // error
+
+e is a const int *
+e = 42; // error
+
+g is a const int *const
+g = 42; // error

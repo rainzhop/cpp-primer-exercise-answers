@@ -1,0 +1,9 @@
+(a) illegal const pointer cp should be initialized
+
+(b) illegal const pointer p2 should be initialized
+
+(c) illegal const int ic should be initialized
+
+(d) illegal const pointer p3 should be initialized
+
+(e) legal

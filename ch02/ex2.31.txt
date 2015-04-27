@@ -1,0 +1,9 @@
+r1 = r2; // legal, top-level const is ignored
+
+p1 = p2; // illegal, low-level const could not be ignored
+
+p2 = p1; // legal, the contrast of the statement above is allowed
+
+p1 = p3; // illegal
+
+p2 = p3; // legal

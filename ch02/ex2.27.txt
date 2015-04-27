@@ -1,0 +1,13 @@
+(a) illegal reference should not bind to a literal type unless it's const
+
+(b) legal
+
+(c) legal
+
+(d) legal
+
+(e) legal
+
+(f) illegal reference could not be const
+
+(g) legal

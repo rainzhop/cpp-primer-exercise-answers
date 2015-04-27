@@ -1,0 +1,7 @@
+(a) illegal, const var should be initialized when declare.
+
+(b) legal.
+
+(c) legal.
+
+(d) illegal, const var could not be changed.
