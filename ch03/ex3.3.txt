@@ -1,0 +1,1 @@
+nothing is ingnored in the getline func.
