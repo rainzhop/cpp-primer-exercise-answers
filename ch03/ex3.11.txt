@@ -1,0 +1,3 @@
+type of c is const char &.
+
+we could not change the value of c.

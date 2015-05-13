@@ -1,0 +1,5 @@
+vector<int> ivec1(10, 42); // i like this
+
+vector<int> ivec2 = {42, 42, 42, 42, 42, 42, 42, 42, 42, 42};
+
+vector<int> ivec3{42, 42, 42, 42, 42, 42, 42, 42, 42, 42};
