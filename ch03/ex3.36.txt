@@ -1,0 +1,5 @@
+i'm so sleepy now...
+
+to compare two arrays, check size first, and check every element in them
+
+to compare two vector, just check if (vec1 == vec2)

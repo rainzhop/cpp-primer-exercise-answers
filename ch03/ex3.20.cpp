@@ -18,6 +18,12 @@ int main()
         ivec.push_back(val);
     }
 
+    if (ivec.size() < 2)
+    {
+        cout << "the num of integer is too few." << endl;
+        return 0;
+    }
+
     cout << "sum of each pair of adjacent elements:" << endl;
     vector<int>::size_type idx;
     for (idx = 1; idx < ivec.size(); ++idx)

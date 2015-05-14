@@ -1,0 +1,7 @@
+sa, 10 empty string
+
+ia, 10 integer 0
+
+sa2, 10 empty string
+
+ia2, undefined

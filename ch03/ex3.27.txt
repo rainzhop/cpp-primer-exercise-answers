@@ -1,0 +1,7 @@
+(a) illegal, buf_size is not constexpr
+
+(b) legal
+
+(c) illegal, we don't know if txt_size() is a constexpr func
+
+(d) illegal, no space for '\0' 

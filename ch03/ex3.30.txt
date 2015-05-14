@@ -1,0 +1,1 @@
+for (size_t ix = 0; ix < array_size; ++ix)

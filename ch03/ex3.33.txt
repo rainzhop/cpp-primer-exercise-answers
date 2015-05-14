@@ -1,0 +1,1 @@
+if we didn't init the scores array, there would be some weird number in the array.
