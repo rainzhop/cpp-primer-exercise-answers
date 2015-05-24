@@ -1,0 +1,5 @@
+see p.140
+
+char a = 1234567;
+short b = 1234567;
+unsigned c = -1;

@@ -1,0 +1,7 @@
+(a) fval, float --> bool
+
+(b) ival, int -> float
+    dval, float -> double
+
+(c) cval, char -> int
+    ival * cval, int -> double

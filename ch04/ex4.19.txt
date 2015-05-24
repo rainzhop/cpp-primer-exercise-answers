@@ -1,0 +1,3 @@
+(c) incorrect
+it might want to say
+vec[ival] <= vec[ival + 1]

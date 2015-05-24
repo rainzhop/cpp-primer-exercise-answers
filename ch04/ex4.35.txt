@@ -1,0 +1,14 @@
+(a) 'a' --> int
+    'a' + 3 --> char
+
+(b) ui --> int
+    ival --> double
+    ival * 1.0 --> int
+    ui - ival * 1.0 --> float
+
+(c) ui --> float
+    ui * fval --> double
+
+(d) ival --> float
+    ival + fval --> double
+    ival + fval + dval --> char

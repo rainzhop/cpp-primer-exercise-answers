@@ -1,0 +1,17 @@
+(a) *iter++
+return *iter, then iter = iter + 1
+
+(b) (*iter)++
+illegal
+
+(c) *iter.empty()
+call the member empty of *iter
+
+(d) iter->empty()
+same as (c)
+
+(e) ++*iter
+illegal
+
+(f) iter++->empty()
+call the member empty of iter, then iter = iter + 1

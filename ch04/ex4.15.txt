@@ -1,0 +1,7 @@
+double dval;
+int ival;
+int *pi;
+
+dval = 0;
+ival = 0;
+pi = nullptr;

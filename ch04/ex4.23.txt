@@ -1,0 +1,4 @@
+i don't care how it fails, if i do this, i'll write like below:
+
+string s = "word";
+string p1 = s + (s[s.size() - 1] == 's'? "" : "s");
