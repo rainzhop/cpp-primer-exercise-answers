@@ -1,0 +1,12 @@
+(a) meaningless
+
+(b)
+bool status;
+while (status - find(word))
+{
+
+}
+if (!status)
+{
+
+}
