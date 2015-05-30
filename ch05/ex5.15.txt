@@ -1,0 +1,8 @@
+(a)
+defination of ix should be put above of the for header
+
+(b)
+for (; ix != sz; ++ix)
+
+(c)
+good for this one

@@ -1,0 +1,14 @@
+(a)
+{}
+
+(b)
+int ival;
+do {
+//...
+} while (ival = get_response);
+
+(c)
+int ival;
+do {
+    ival = get_response();
+} while (ival);

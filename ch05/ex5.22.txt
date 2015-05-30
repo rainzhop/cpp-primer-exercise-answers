@@ -1,0 +1,6 @@
+while (1)
+{
+    int sz = get_size();
+    if (sz <= 0)
+        continue;
+}

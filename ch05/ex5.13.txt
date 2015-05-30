@@ -1,0 +1,12 @@
+(a)
+    lack of break
+
+(b)
+    variable intialization below a case XXX:
+
+(c)
+    a case should only match one value
+
+(d)
+    a case should match a const value
+
