@@ -1,0 +1,4 @@
+it's easy to answer in chinese.
+parameter: xing can
+argument: shi can
+

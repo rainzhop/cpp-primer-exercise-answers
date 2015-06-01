@@ -1,0 +1,11 @@
+(a)
+return type, string
+
+(b)
+return type, miss...
+
+(c)
+int calc(int v1, int v2) {/* ... */}
+
+(d)
+{} miss...
