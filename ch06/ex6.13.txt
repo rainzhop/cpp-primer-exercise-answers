@@ -1,0 +1,1 @@
+void f(T) could not change the argument, void f(T&) could.

@@ -1,0 +1,4 @@
+void print(const int (&ia)[10])
+{
+    /* ... */
+}

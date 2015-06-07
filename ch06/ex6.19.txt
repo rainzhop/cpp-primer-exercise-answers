@@ -1,0 +1,8 @@
+(a) illegal
+argument number shoud be 1
+
+(b) legal
+
+(c) legal
+
+(d) legal
