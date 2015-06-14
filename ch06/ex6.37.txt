@@ -1,0 +1,11 @@
+string (&func())[10];
+
+using strArray = string(&)[10];
+strArray func();
+
+auto func() -> string(&)[10];
+
+string (&s)[10];
+decltype(s) func();
+
+i'm not sure if my answer is correct...

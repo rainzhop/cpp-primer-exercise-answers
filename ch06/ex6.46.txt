@@ -1,0 +1,3 @@
+no...
+
+return type and the type of each parameter should be a literal type

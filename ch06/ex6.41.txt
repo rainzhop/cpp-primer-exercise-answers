@@ -1,0 +1,8 @@
+(a)
+illegal, parameter 'ht' is necessary
+
+(b)
+legal
+
+(c)
+legal, but wd will be ascii of '*'

@@ -1,0 +1,5 @@
+(a)
+header file, because this is an inline function
+
+(b)
+header file, i prefer to put declaration in a header file
