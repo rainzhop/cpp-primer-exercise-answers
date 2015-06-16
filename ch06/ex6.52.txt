@@ -1,0 +1,5 @@
+(a)
+promotion
+
+(b)
+arithmetic type conversion
