@@ -1,0 +1,3 @@
+just like:
+
+cin >> data1 >> data2
