@@ -1,0 +1,2 @@
+the most valuable pro for refering to members through the 'this' pointer is
+that we can use an input parameter with the same name of a member variable.
