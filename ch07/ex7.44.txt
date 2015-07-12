@@ -1,0 +1,1 @@
+illegal, NoDefault has no default constructor.

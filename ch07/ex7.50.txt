@@ -1,0 +1,9 @@
+Person(): name("unknown"), address("nowhere") {  };
+
+Person(const string &n): name(n), address("nowhere") {  };
+
+Person(const string &n, const string &a):
+        name(n), address(a) {  };
+
+
+no need to add explicit

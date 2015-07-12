@@ -1,0 +1,12 @@
+(a)
+untrue.
+
+(b)
+untrue.
+
+(c)
+untrue.
+
+(d)
+untrue. compiler will help to generate default constructor only if no
+constructor is defined by us.

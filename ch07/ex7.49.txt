@@ -1,0 +1,5 @@
+a) ok
+
+b) no, temporary is const, parameter not match
+
+c) no, ok if no tailing const

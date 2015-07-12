@@ -1,0 +1,1 @@
+No, it will be confused if we call the construction with no parameter.
