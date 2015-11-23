@@ -1,0 +1,8 @@
+ex7.53
+  i have no idea
+
+ex7.54
+  should not. constexpr should have only one return statement.
+
+ex7.55
+  no. because std::string is not literal type.
