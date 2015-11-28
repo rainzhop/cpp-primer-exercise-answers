@@ -1,0 +1,1 @@
+insert() return the iterator pointing to the new element just added.

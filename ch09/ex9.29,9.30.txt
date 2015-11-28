@@ -1,0 +1,6 @@
+ex9.29
+  add 75 zero after the original 25 element.
+  delete last 90 element.
+
+ex9.30
+  the element type must have a default constructor.

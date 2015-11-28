@@ -1,0 +1,5 @@
+Thank Google, I learn that list does not implement the '<' operation.
+
+should use
+
+    while (iter1 != iter2) /* ... */

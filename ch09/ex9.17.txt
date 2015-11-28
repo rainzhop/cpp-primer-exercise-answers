@@ -1,0 +1,2 @@
+same type
+element should already implement the '<' operation

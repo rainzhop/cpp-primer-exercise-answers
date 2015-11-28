@@ -1,0 +1,10 @@
+ex9.9
+  begin --rw iterator
+  cbegin --r const_iterator
+
+ex9.10
+  it1: vector<int>::iterator
+  it2: vector<int>::const_iterator
+  it3: vector<int>::const_iterator
+  it4: vector<int>::const_iterator
+  
